@@ -2,7 +2,7 @@
   "name": "napoles-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MarFelix.github.io/napoles-app",
+  "homepage": "http://MarFelix.github.io/napoles-app",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
